@@ -1,0 +1,35 @@
+h1,h2,h5, p{
+	color:white;
+}
+.hw{
+	height:350px;
+	weight:100%;	
+	padding:30px 5px;;
+	text-align: center;
+}
+
+
+
+.firstMain{
+	background-image: linear-gradient(to bottom, rgba(31,127,219,1), rgba(24,27,155,1));
+}
+.secondMain{
+	 background-image: linear-gradient(to bottom, rgba(50,203,177,1), rgba(46,185,87,1));
+}
+.thirdMain{
+	background-image: linear-gradient(to bottom, rgba(242,75,87,1), rgba(206,39,98,1));
+}
+.fourthMain{
+	background-image: linear-gradient(to bottom, rgba(248,222,59,1), rgba(240,143,1,1));
+}
+.fifthMain{
+	background-image: linear-gradient(to bottom, rgba(143,49,172,1), rgba(65,18,104,1));
+}
+.sixthMain{
+	background-image: linear-gradient(to bottom, rgba(31,127,219,1), rgba(24,27,155,1));
+}
+
+.footer{
+	background-image: linear-gradient(to bottom, rgba(25,25,25,0.70), rgba(30,30,30,0.80));
+}
+
